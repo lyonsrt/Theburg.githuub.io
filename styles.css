@@ -1,0 +1,34 @@
+body{
+	background-color: saddlebrown;
+}
+.header{
+	width: 100%;
+	background-image: linear-gradient(to right,lightgray,  darkgray, lightgray);
+}
+
+.nav-link{color: white!important;}
+.nav-link:hover{color: red!important;}
+.our{
+	box-sizing: border-box;
+	text-align: center;
+	font-weight: 500;
+}
+.carousel {
+	margin: auto;
+	width: 1000px;
+	height: 800px;
+}
+.carousel-inner, .carousel-item {
+	width: 1000px;
+	height: 800px;
+}
+.events{
+	background-color: grey;
+}
+.trail{
+	background-color: grey;
+}
+.image1{
+	display: flex;
+	justify-content: center;
+}
